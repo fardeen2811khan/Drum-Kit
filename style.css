@@ -16,7 +16,7 @@ footer {
   font-family: sans-serif;
 }
 
-.w {
+.f {
 background-image: url("images/tom1.png");
 }
 
@@ -24,7 +24,7 @@ background-image: url("images/tom1.png");
 background-image: url("images/tom2.png");
 }
 
-.s {
+.r {
 background-image: url("images/tom3.png");
 }
 
@@ -32,15 +32,15 @@ background-image: url("images/tom3.png");
 background-image: url("images/tom4.png");
 }
 
-.j {
+.e {
 background-image: url("images/snare.png");
 }
 
-.k {
+.e {
 background-image: url("images/crash.png");
 }
 
-.l {
+.n {
 background-image: url("images/kick.png");
 }
 
